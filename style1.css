@@ -1,0 +1,12 @@
+#box {
+    padding: 100px 100px 50px 100px;
+    text-align: center;
+}
+
+.owner-column {
+    padding : 3% 2%;
+}
+.border {
+    border:2px solid black;
+    color: white;
+}
